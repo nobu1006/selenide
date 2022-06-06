@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-06T07:45:51" hostname="DESKTOP-Q8NTTH6" time="10.823">
+  <properties/>
+  <testcase name="test01()" classname="test.SampleTest" time="10.823"/>
+  <system-out><![CDATA[Google
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 54741
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+6月 06, 2022 4:45:57 午後 org.openqa.selenium.remote.ProtocolHandshake createSession
+情報: Detected dialect: W3C
+6月 06, 2022 4:45:58 午後 org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+警告: Unable to find an exact match for CDP version 102, so returning the closest version found: 101
+6月 06, 2022 4:45:58 午後 org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+情報: Found CDP implementation for version 102 of 101
+]]></system-err>
+</testsuite>
