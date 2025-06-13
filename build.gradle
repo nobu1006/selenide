@@ -16,7 +16,8 @@ dependencies {
     // implementation group: 'com.codeborne', name: 'selenide', version: '5.25.1'
     // https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager
     //implementation group: 'io.github.bonigarcia', name: 'webdrivermanager', version: '5.2.0'
-    testImplementation 'com.codeborne:selenide:7.2.3'
+// https://mvnrepository.com/artifact/com.codeborne/selenide
+    implementation 'com.codeborne:selenide:7.9.3'
     testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
 }
 
